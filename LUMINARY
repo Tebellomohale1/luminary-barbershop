@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+  <h1>LUMINARY BARBER SHOP</h1>
+  <img src="image-url.jpg" alt="LUMINARY BARBERSHOP"
+  <p>Contact: +27 79 529 4351</p>
+  <p>Address: 2 Bloubos Street, Merriespruit, Virginia</p>
+  <p>By appointment ONLY!</p>
+  <h2>Price List</h2>
+  <ul>
+    <li>Taper Fade: R40</li>
+    <li>Plain Cut: R40</li>
+	<li>Bald: R30</li>
+	<li>Brush: R35</li>
+	<li>Hair Trim: R15</li>
+	<li>Taper fade + black tint: R50</li>
+	<li>Taper fade + black fibre + tint: R70</li>
+	<li>Cut + black fibre + tint: R70</li>
+	<li>Cut + black tint: R50</li>
+	<li>Taper fade + black dye:R90</li>
+	<li>Cut + black dye: R90</li>
+   </ul>
+</body>
+</html>
